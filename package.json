@@ -1,0 +1,23 @@
+{
+  "name": "@goldix.org/utils",
+  "version": "0.0.1",
+  "description": "Some utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demchenkoe/goldix.org-utils.git"
+  },
+  "keywords": [
+    "goldix.org",
+    "utils"
+  ],
+  "author": "Eugene Demchenko <demchenkoev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demchenkoe/goldix.org-utils/issues"
+  },
+  "homepage": "https://github.com/demchenkoe/goldix.org-utils#readme"
+}
